@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mohamed-abd-eldayem">
+  <a href="https://github.com/mohamedabdeldayem7">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=239120&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Developer;Generative+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/mohamed-abd-eldayem">
-    <img src="https://komarev.com/ghpvc/?username=mohamed-abd-eldayem&label=Profile%20Views&color=239120&style=flat-square" alt="Visitor Count" />
+  <a href="https://github.com/mohamedabdeldayem7">
+    <img src="https://komarev.com/ghpvc/?username=mohamedabdeldayem7&label=Profile%20Views&color=239120&style=flat-square" alt="Visitor Count" />
   </a>
 </p>
 
